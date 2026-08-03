@@ -1,5 +1,7 @@
 # XBackBone on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/xbackbone?referralCode=ZqgrJ0)
+
 Deploy XBackBone 3.8.2 with a generated administrator and persistent ShareX-compatible uploads.
 
 The Deploy on Railway button is added after the published route is verified.
